@@ -1,0 +1,9 @@
+html,
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: chocolate;
+  color: whitesmoke;
+  text-align: center;
+} /*# sourceMappingURL=style.css.map */
